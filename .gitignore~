@@ -1,2 +1,5 @@
 
 Resources/Visual Sentiment Ontology/Flickr_Dataset/trainingAndTestingPartition/trainingAndTesting_fullset
+Resources/Visual Sentiment Ontology/SentiBank_detector/DeepSentiBank/caffe_sentibank_train_iter_250000
+
+Resources/Visual Sentiment Ontology/SentiBank_detector/DeepSentiBank_works_with_Caffe_rc2/caffe_sentibank_train_iter_250000
