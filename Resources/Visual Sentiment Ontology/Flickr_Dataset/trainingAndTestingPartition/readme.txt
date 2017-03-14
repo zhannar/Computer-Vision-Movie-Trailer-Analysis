@@ -1,0 +1,1 @@
+The fullset includes a testset of 1:1500 positive/negative ratio. Each reduced set includes a testset of 1:2 positive/negative ratio. Most results in our paper are based on the performance average over these 5 reduced sets. Please find the training and testing partition details in our paper.
