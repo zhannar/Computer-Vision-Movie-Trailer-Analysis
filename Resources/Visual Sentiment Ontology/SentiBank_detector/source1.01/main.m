@@ -1,0 +1,1 @@
+SentiBank('test.jpg')
